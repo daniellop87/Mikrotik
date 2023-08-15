@@ -1,4 +1,4 @@
-# Script para el Envío de Backups del Mikrotik
+# Envío de Backups de Mikrotik via FTP
 
 Este script te permite generar un respaldo (backup) y una exportación del sistema Mikrotik, y luego subirlos a un servidor FTP remoto.
 
